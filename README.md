@@ -60,9 +60,13 @@ This project presents an **AI-powered Smart Traffic Signal Control System** that
 
 .
 ├── train.py        # Train the traffic control model
+
 ├── val.py          # Validate the trained model
+
 ├── predict.py      # Predict traffic signal timings on new data
+
 ├── tutorial.ipynb  # End-to-end walkthrough in Jupyter
+
 └── README.md       # Documentation
 
 
@@ -89,13 +93,13 @@ pip install -r requirements.txt
 
 ## Future Enhancements
 
-Integration with city-wide IoT traffic sensors & cameras.
+- Integration with city-wide IoT traffic sensors & cameras.
 
-Scaling to multi-intersection smart networks.
+- Scaling to multi-intersection smart networks.
 
-Reinforcement learning for self-optimizing signal cycles.
+- Reinforcement learning for self-optimizing signal cycles.
 
-Full cloud + edge deployment for smart city adoption.
+- Full cloud + edge deployment for smart city adoption.
 
 ## License
 
